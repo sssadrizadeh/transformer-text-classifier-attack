@@ -9,7 +9,7 @@ Install [conda](https://conda.io) and run the steps below:
 ```
 $ git clone https://github.com/sssadrizadeh/transformer-text-classifier-attack.git
 $ cd transformer-text-classifier-attack
-$ conda create -n text_attack --file package-list.txt
+$ conda env create --file=env_attack.yml
 $ conda activate text_attack
 ```
 
