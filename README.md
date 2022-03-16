@@ -38,7 +38,7 @@ This code evaluates the attack in terms of the average semantic similarity betwe
 ## Citation
 If you found this repository helpful, please don't forget to cite our paper:
 ```BibTeX
-@inproceedings{sadrizadeh2021gradient,
+@inproceedings{sadrizadeh2022Block,
   title = {Block-Sparse Adversarial Attack to Fool Transformer-Based Text Classifiers},
   author = {Sahar Sadrizadeh, Ljiljana Dolamic, and Pascal Frossard},
   booktitle = {ICASSP 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
