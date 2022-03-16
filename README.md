@@ -1,6 +1,6 @@
 # Block-Sparse Adversarial Attack to Fool Transformer-Based Text Classifiers
 
-This is the official repository of the paper **"Block-Sparse Adversarial Attack to Fool Transformer-Based Text Classifiers"**, the white-box adversarial attack against transformer-based text classifers. 
+This is the official repository of the paper [**"Block-Sparse Adversarial Attack to Fool Transformer-Based Text Classifiers"**](https://arxiv.org/pdf/2203.05948.pdf), the white-box adversarial attack against transformer-based text classifers. 
 
 ![](blockdiagram.png)
 
@@ -10,7 +10,7 @@ Install [conda](https://conda.io) and run the steps below:
 $ git clone https://github.com/sssadrizadeh/transformer-text-classifier-attack.git
 $ cd transformer-text-classifier-attack
 $ conda env create --file=env_attack.yml
-$ conda activate text_attack
+$ conda activate attack
 ```
 
 The datsets and models are available in the HuggingFace transformers package.
