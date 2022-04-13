@@ -33,7 +33,7 @@ $ python EvaluateAttack.py --start_index 100 --num_samples 200 --dataset ag_news
 ```
 This code evaluates the attack in terms of the average semantic similarity between the original sentences  and the adversarial ones by using Universal Sentence Encoder (USE), the token error rate, and the success attack rate.
 
-**Acknowledgement:** Some parts of the codes are inspired by [GDBA](https://github.com/facebookresearch/text-adversarial-attack). We thank the authors for their valuable efforts. 
+**Acknowledgement:** Some parts of the codes are inspired by [GBDA](https://github.com/facebookresearch/text-adversarial-attack). We thank the authors for their valuable efforts. 
 
 ## Citation
 If you found this repository helpful, please don't forget to cite our paper:
